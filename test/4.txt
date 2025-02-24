@@ -1,0 +1,10 @@
+5 5 3
+DEFAULT
+A
+A
+AA
+B
+BB
+BB
+C
+CC
